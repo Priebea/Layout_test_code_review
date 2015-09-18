@@ -1,17 +1,17 @@
 .border {
-  background-color: gray;
+  background-color: #C2C2AD;
 }
 
 
 
 h1 {
-  background-color: gray;
+  background-color: #E0E0EB;
 }
 
 h2 {
-  background-color: pink;
+  background-color: #E685A6;
   color: blue;
-  font-size: 15px;
+  border-width:thick;
 }
 
 
@@ -23,11 +23,15 @@ h2 {
 .column1 {
   width: 300px;
   float: left;
-  background-color: green
+  background-color: #9BCD9B;
+  margin: 0px;
+  padding: 10px;
 }
 
 .column2 {
   width: 300px;
   float: left;
-  background-color: pink
+  background-color: #A3A3E6;
+  margin: 0px;
+  padding: 10px;
 }
