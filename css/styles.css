@@ -1,8 +1,20 @@
+h1 {
+  background-color: gray;
+}
+
+h2 {
+  background-color: pink;
+  color: blue;
+  font-size: 15px;
+}
+
+
+
+
+
+
+
 .column {
   width: 300px;
   float: left;
-}
-
-h1 {
-  color:red
 }
