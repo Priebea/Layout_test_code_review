@@ -8,20 +8,15 @@ h1 {
   background-color: #E0E0EB;
 }
 
-h6 {
+.optionblock {
   background-color: #E685A6;
-  color: blue;
-  border-width:thick;
+  width: 750px;
+  height: 25px;
 }
 
 
-
-
-
-
-
 .column1 {
-  width: 300px;
+  width: 500px;
   float: left;
   background-color: #9BCD9B;
   margin: 0px;
@@ -29,7 +24,7 @@ h6 {
 }
 
 .column2 {
-  width: 300px;
+  width: 200px;
   float: left;
   background-color: #A3A3E6;
   margin: 0px;
